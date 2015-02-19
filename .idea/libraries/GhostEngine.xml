@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GhostEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/GhostEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
