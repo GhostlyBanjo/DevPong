@@ -8,6 +8,7 @@ import java.awt.*;
  */
 public class Paddle extends Entity {
     private Color c = Color.white;
+
     public Paddle(String name, Pair<Float, Float> loc, Pair<Float, Float> size) {
         super(name, loc, size);
     }
